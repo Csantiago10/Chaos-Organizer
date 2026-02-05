@@ -1,6 +1,6 @@
-from src import organizer
+from src.ui import ChaosApp
 
 if __name__ == "__main__":
     # Pedir al usuario que ingrese la ruta de la carpeta a organizar
-    user_input = input("Ingresa la ruta de la carpeta a organizar: ")
-    organizer.organize_directory(user_input)
+    app = ChaosApp()
+    app.mainloop()

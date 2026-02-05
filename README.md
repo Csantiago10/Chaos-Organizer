@@ -34,7 +34,7 @@ If you want to inspect or modify the code:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Csantiago10/chaos-organizer.git
+git clone https://github.com/Csantiago10/Chaos-Organizer.git
 
 # 2. Navigate to the folder
 cd Chaos_Organizer
